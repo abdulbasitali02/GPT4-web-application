@@ -1,7 +1,5 @@
+**GPT-4 News Web-App**
 
-GPT-4 News Web-ApplicationGPT-4 News Web-Application
-Apr 2023 - PresentApr 2023 - Present
-Show project
 This web app is designed to display the latest news related to GPT-4, the newest version of OpenAI's language model. The app will fetch data from an API that provides news articles on GPT-4, and display them in a responsive and user-friendly format. The app is built using React, a popular JavaScript library for building user interfaces.
 
 Features:
